@@ -16,7 +16,7 @@ const muppet = {
   partner: 'Miss Piggy'
 };
 
-const[name,color,song,job,partner] = muppet
+const{name,color,song,job,partner} = muppet
 
 const k_muppet = {
   k_name: 'Kermit',
